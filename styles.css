@@ -43,7 +43,7 @@ h2 {
 .input {
     font-size: 14px;
     outline: #fff;
-    padding: 0.6rem 1rem;
+    padding: 0.5rem 1rem;
     margin: 1rem;
     border: 2px solid var(--primary-color);
     border-radius: 0.5rem;
